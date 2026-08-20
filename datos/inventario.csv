@@ -1,0 +1,11 @@
+ID,Hostname,IP,RAM_GB,CPU_Cores,Estado
+SRV-01,web-frontend-01,10.0.1.10,16,4,ONLINE
+SRV-02,web-frontend-02,10.0.1.11,16,4,ONLINE
+SRV-03,api-backend-01,10.0.2.10,32,8,ONLINE
+SRV-04,api-backend-02,10.0.2.11,32,8,MAINTENANCE
+SRV-05,db-master-01,10.0.3.10,64,16,ONLINE
+SRV-06,db-replica-01,10.0.3.11,64,16,ONLINE
+SRV-07,cache-redis-01,10.0.4.10,16,4,ONLINE
+SRV-08,backup-storage-01,10.0.5.10,8,2,OFFLINE
+SRV-09,auth-gateway-01,10.0.6.10,16,4,ONLINE
+SRV-10,analytics-worker-01,10.0.7.10,32,8,ONLINE
