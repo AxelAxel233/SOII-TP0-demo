@@ -1,0 +1,17 @@
+/admin/panel
+/api/carrito
+/api/checkout
+/api/healthcheck
+/api/login
+/api/notificaciones
+/api/ordenes
+/api/perfil
+/api/productos
+/api/productos/105
+/archivos/manual.pdf
+/contacto.html
+/css/estilos.css
+/imagenes/logo.png
+/index.html
+/js/app.js
+/nosotros.html

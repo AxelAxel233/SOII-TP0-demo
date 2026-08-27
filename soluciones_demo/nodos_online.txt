@@ -1,0 +1,8 @@
+analytics-worker-01,10.0.7.10
+api-backend-01,10.0.2.10
+auth-gateway-01,10.0.6.10
+cache-redis-01,10.0.4.10
+db-master-01,10.0.3.10
+db-replica-01,10.0.3.11
+web-frontend-01,10.0.1.10
+web-frontend-02,10.0.1.11
