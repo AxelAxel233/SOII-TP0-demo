@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ==============================================================================
 # SISTEMAS OPERATIVOS II - 2026
-# SUITE DE PRUEBAS DE LA DEMOSTRACIÓN (TP 0 Demo)
+# SUITE DE PRUEBAS DE LA DEMOSTRACIÓN (TP 0 Demo)i
 # ==============================================================================
 
 RED='\033[0;31m'
